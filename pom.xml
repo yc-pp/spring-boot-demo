@@ -25,6 +25,7 @@
         <module>demo-thymeleaf</module>
         <module>demo-muliDataSource</module>
         <module>demo-hello-springboot</module>
+        <module>demo-rabbitMQ</module>
     </modules>
 
     <dependencies>
